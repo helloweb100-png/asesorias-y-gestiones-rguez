@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Logotipo de Asesoría y Gestiones Rguez">
+  <defs>
+    <linearGradient id="rg-fondo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14775B"/>
+      <stop offset="1" stop-color="#03201A"/>
+    </linearGradient>
+    <linearGradient id="rg-oro" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F9E3A0"/>
+      <stop offset=".5" stop-color="#E4B23A"/>
+      <stop offset="1" stop-color="#B98516"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="url(#rg-fondo)"/>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="none" stroke="url(#rg-oro)" stroke-opacity=".55" stroke-width="1.5"/>
+  <path d="M22 47V17h12.5a9.5 9.5 0 0 1 0 19H22" fill="none" stroke="url(#rg-oro)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M35 37.5 46 47" fill="none" stroke="url(#rg-oro)" stroke-width="5.5" stroke-linecap="round"/>
+  <circle cx="47.5" cy="16.5" r="3.2" fill="url(#rg-oro)"/>
+</svg>
